@@ -1,13 +1,13 @@
 // Firebase Configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDhHHkFtPFKnajwcFGZO-dLYbcTGSH77Kk",
-  authDomain: "temple-c4a9e.firebaseapp.com",
-  databaseURL: "https://temple-c4a9e-default-rtdb.firebaseio.com",
-  projectId: "temple-c4a9e",
-  storageBucket: "temple-c4a9e.firebasestorage.app",
-  messagingSenderId: "829243178884",
-  appId: "1:829243178884:web:72d3efd87c284507a0a7d1",
-  measurementId: "G-X7ZH02Z500"
+    apiKey: "AIzaSyCG7gNkTRHDd1evnoZ9If1gSt4ZcmRnFq4",
+  authDomain: "arisimale-donation.firebaseapp.com",
+  databaseURL: "https://arisimale-donation-default-rtdb.firebaseio.com",
+  projectId: "arisimale-donation",
+  storageBucket: "arisimale-donation.firebasestorage.app",
+  messagingSenderId: "490097348645",
+  appId: "1:490097348645:web:94e16aeddfa3e585952fcc",
+  measurementId: "G-WJD41DYFPS"
 };
 
 // Initialize Firebase
